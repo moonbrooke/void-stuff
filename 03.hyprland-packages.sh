@@ -10,7 +10,7 @@ PACKAGES=(
     alsa-utils udiskie Thunar thunar-volman gvfs unzip stow fcitx5 fcitx5-mozc fcitx5-configtool
     
     # Terminal & stuff
-    foot neovim zsh fastfetch fzf bat btop
+    foot neovim zsh fastfetch fzf bat btop git base-devel ripgrep
     
     # Fonts
     noto-fonts-ttf noto-fonts-emoji noto-fonts-cjk-sans

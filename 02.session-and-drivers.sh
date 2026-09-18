@@ -4,7 +4,7 @@ set -euo pipefail
 
 echo "=== Updating repositories and installing packages ==="
 sudo xbps-install -Sy void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree
-sudo xbps-install -Sy dbus seatd polkit elogind nvidia nvidia-libs-32bit mesa-dri-32bit intel-video-accel mesa-dri
+sudo xbps-install -Sy dbus seatd polkit elogind nvidia nvidia-libs-32bit mesa-dri-32bit intel-video-accel mesa-dri intel-ucode
 
 echo "=== Enabling Runit Services ==="
 for service in dbus seatd polkitd; do
