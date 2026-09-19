@@ -4,7 +4,7 @@ set -euo pipefail
 
 PACKAGES=(
     # Desktop Environment
-    hyprland awww dunst grim slurp jq Waybar rofi hyprpicker imv wl-clipboard cliphist hyprpolkitagent rofimoji xdg-desktop-portal-hyprland nwg-look
+    hyprland hyprsunset awww dunst grim slurp jq Waybar rofi hyprpicker imv wl-clipboard cliphist hyprpolkitagent rofimoji xdg-desktop-portal-hyprland nwg-look
     
     # Utilities
     alsa-utils udiskie Thunar thunar-volman gvfs unzip stow fcitx5 fcitx5-mozc fcitx5-configtool
