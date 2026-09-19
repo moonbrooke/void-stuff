@@ -7,7 +7,7 @@ PACKAGES=(
     hyprland hyprsunset awww dunst grim slurp jq Waybar rofi hyprpicker imv wl-clipboard cliphist hyprpolkitagent rofimoji xdg-desktop-portal-hyprland nwg-look
     
     # Utilities
-    alsa-utils udiskie Thunar thunar-volman gvfs unzip stow fcitx5 fcitx5-mozc fcitx5-configtool
+    alsa-utils udiskie Thunar thunar-volman gvfs unzip stow xorg-server-xwayland fcitx5 fcitx5-mozc fcitx5-configtool
     
     # Terminal & stuff
     foot neovim zsh fastfetch fzf bat btop git base-devel ripgrep
